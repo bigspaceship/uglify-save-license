@@ -4,7 +4,7 @@
 
 'use strict';
 
-var licenseRegexp = /@preserve|@cc_on|\bMIT\b|\bMPL\b|\bGPL\b|\bBSD\b|\bISCL\b|\(c\)|License|Copyright/mi;
+var licenseRegexp = /@preserve|@cc_on|\bMIT\b|\bMPL\b|\bGPL\b|\bBSD\b|\bISCL\b|\(c\)|License|[0-9]\.[0-9]\.[0-9]|Copyright/mi;
 
 // number of line where license comment appeared last
 var prevCommentLine = 0;

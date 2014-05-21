@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shinnn/uglify-save-license.git"
+    "url": "https://github.com/bigspaceship/uglify-save-license.git"
   },
   "author": {
     "name": "Shinnosuke Watanabe",
-    "url": "https://github.com/shinnn"
+    "url": "https://github.com/bigspaceship"
   },
   "readmeFilename": "README.md",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/shinnn/uglify-save-license/blob/master/LICENSE"
+      "url": "https://github.com/bigspaceship/uglify-save-license/blob/master/LICENSE"
     }
   ],
   "keywords": [
@@ -33,9 +33,9 @@
     "banner"
   ],
   "bugs": {
-    "url": "https://github.com/shinnn/uglify-save-license/issues"
+    "url": "https://github.com/bigspaceship/uglify-save-license/issues"
   },
-  "homepage": "https://github.com/shinnn/uglify-save-license",
+  "homepage": "https://github.com/bigspaceship/uglify-save-license",
   "devDependencies": {
     "grunt": "^0.4.5",
     "load-grunt-tasks": "^0.4.0",
